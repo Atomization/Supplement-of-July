@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+**<font size=7>七月拾遗</font>**
 
-You can use the [editor on GitHub](https://github.com/Atomization/Supplement-of-July/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**<font color=DodgerBlue>超过日记的范畴有点太多了，所以拎出来单独一篇</font>**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------
 
-### Markdown
+## 郑州强降雨
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+&emsp;&emsp;已经是大半周以前的社会热点了，河南郑州强降雨引发洪灾，地铁被淹、隧道被淹，票圈和空间都有很多人转发从微博来的各种救灾消息。根据最新的官方数据是死了几十个人，救援尚未完全结束。这场灾难在地理上离我是比较遥远的，最近稍微专注地在学习所以也没泡太多微博，对相关的新闻也就比较滞后和缺失。不过没想到聂光玲跑到了前线亲身参与支援救灾工作，我认识的人有能主动走进参与赈灾的，我稍微有点惊讶，这个层面上她算是实干派。
 
-```markdown
-Syntax highlighted code block
+&emsp;&emsp;灾难逐渐退去之后，有人到溺水事故发生的地铁出口摆上了花祭奠亡灵，花差不多把地铁口的台阶铺满的时候被不知什么势力用马水围给圈住遮挡起来，然乎昨天还是前天晚上被市民给拆掉，到今天白天就演变到了下面这样的规模。
 
-# Header 1
-## Header 2
-### Header 3
+<div align=center><img src="https://i.loli.net/2021/07/28/hQHNWZdcqo3Cvtu.jpg" width="61.8%"></div>
 
-- Bulleted
-- List
+在我看来这当然是市民自发的朴素情感的表达、悲伤情绪的出口。但是不出所料，无论公权力部门还是网络中都有紧抓着主流叙事的人在审判这一行为。有没有境外势力？可能有。有没有人借题发挥？我无法否认。但我更觉得，“颜色革命”的真实存在不能成为公权力扼杀市民朴素感情的充分理由。我不喜欢把这样的行为上升到政治，尽管它有可能沾染着政治。我不喜欢什么格局格局什么警惕警惕，这样的人在我看来就是深陷群体，忽视了人作为个体的生理和精神需求。我讨厌在争论中搬出宏大叙事来作证观点或者阐释行为，作为争议事件这很没有意思。最高级的宏大叙事在事实上是不能被对抗的，那么只要把宏大叙事搬出来，就没有讨论余地了。这是不公平不对等的。
 
-1. Numbered
-2. List
+&emsp;&emsp;东京奥运会在延期一年之后最终还是艰难地召开了，开幕式当晚就上了热搜，被带上了“阴间”的tag，成为微博及其他简中互联网平台的群嘲对象。我昨天才终于把东京奥运会开幕式的录播拉出来看了，然后又顺便过了一下2008年北京奥运会的开幕式，个人感受上确实是后者比前者高出一个档次。当然这其中当然会有文化隔阂引起的理解障碍导致我并不能很好地欣赏异域节目中包含的风土人情和历史积淀，因为不只是日本，上一届的巴西也有让人一头雾水的节目。
 
-**Bold** and _Italic_ and `Code` text
+&emsp;&emsp;北京奥运会贯穿始终都在表现作为群体的人的力量，从开场的击缶到活字到功夫，基本每一个节目都调用了大量的群演。也许对于每一个参演的人来说要学习的技艺本身是简单的，但一旦要把海量的表演者排练到整齐划一形成几近完美的配合，这背后的练习量是难以想象的，自然也就能够表现出“众”的力量。这种场面对本就有相关文化背景的中国人来说自然是有着很强感染力的；同时我倾向于相信，就算是异域的人们并不理解文化符号本身，整齐和宏大的气势仍然能够跨越文化的隔阂。
 
-[Link](url) and ![Image](src)
-```
+&emsp;&emsp;我会给东京奥运会的开幕式抠一个问号。我倒没有觉得有多么阴间，本来网络上漫天飞舞的关于开幕式“物哀”文化相关阴间节目的gif也并不出自正式的开幕式，而是更早几天的奥运会特别活动，所以我其实很怀疑大多数网民无非就是跟在一些kol身后群嘲日本，甚至并没有看开幕式。东京奥运会开幕式的节目时长大概只有北京奥运会开幕式的一半，从NHK的画面切入主场馆到运动员开始入场只过了大概40分钟，我看的时候还开着二倍速，真实的感受就是“啊这么快就结束了？？？”其间只有江户的那个节目上场了几十个演员，其余节目不管是最开始的物哀舞蹈、踢踏舞独舞、钢琴独奏，演员的个人能力是一方面，但终究显得有一点小家子气，以个人实力撑场的节目在这样的超大型场馆中的观赏效果是要打折扣的（不过这次也没几个现场观众就是了）。再结合早先东京奥运会开幕式花了上百亿日元的报道，会让人不禁怀疑钱都花到哪儿了去了。如果再跟五年前的东京八分钟对比一下，会发现很多被期待的日本知名文化符号明明在八分钟出现了不少，在开幕式却寥寥无几。总而言之这场开幕式是没达到要求的。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+&emsp;&emsp;学传播最有意思的地方就是今天刚学到的一些知识就能在当下的网络媒体中得到验证，观察人群实在是很能满足我的好奇心（同时也有一些优越感吧）。关于东京奥运会的负面报道近几个月就没有停过，其根本原因当然是东京奥组委出了一个又一个的幺蛾子，不过其中也夹杂着不少的流言，开幕式之后一些流言更是飞速传播。在中日微妙的历史关系背景下，主流舆论对日本的态度一向是严苛的、审问的，近些年
 
-### Jekyll Themes
+&emsp;&emsp;日本政府在疫情应对这方面模棱两可的态度着实让人迷惑。从目的来看，保证东京奥运会的成功举办不让花出去的几百亿日元打水漂显然是首要目标，但是日本的防疫限制措施三天打鱼两天晒网，最终疫情并没有得到十分有效的控制。说起来传统西方国家都有以下类似的倾向：限制措施的施行时间短，疫情稍有缓和措施就会放松；很多时候都是预设好措施的施行时间，时间到了无论状况如何措施都按照计划终止，如要延期则需提前通知；民众的配合意愿不高，执行部门的强制力比较低。反观中国内地，向来以事件的最终解决为措施终止的前提，措施的开始和结束都可以在指令发出的很短时间内被执行，强制性较强。从结果上来看，内地的做法对于大多数人的生命要更负责任，当然也为此牺牲了很多个人的自由，做过很多浪费资源的蠢事。这大概就是制度的区别对不同维度的权利的取舍，大陆防疫的成果有目共睹，作为在疫情中被强力的政策保护的大多数，我的确没有办法去批判这种模式的根基。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atomization/Supplement-of-July/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<font color=DarkGray>Edited Oct 7,2017</font>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
